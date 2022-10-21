@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **de1ck/de1ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+游历几年的github用户，一个尝试为社区贡献的coder
+
+![统计](https://github-readme-stats.vercel.app/api?username=de1ck&show_icons=true)
+![代码](https://github-readme-stats.vercel.app/api/top-langs?username=de1ck&show_icons=true)
